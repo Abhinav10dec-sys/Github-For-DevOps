@@ -1,0 +1,19 @@
+ history
+  46 git status
+  47 git add git commands
+  48 git add git
+  49 ls
+  50 git add git commands
+  51 mv git commands git_commands
+  52 clear
+
+  55 ls
+  56 git add git_commands.txt
+  57 git status
+  58 git commit -m git_commands.txt
+  59 git status
+  60 ls
+  67 git remote 
+  68 git push master origin
+
+  
