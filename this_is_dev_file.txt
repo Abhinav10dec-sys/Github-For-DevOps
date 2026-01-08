@@ -1,0 +1,2 @@
+ls
+hello this is merge file fro git to git hub, at this thime only we are pracyicing yje things.
